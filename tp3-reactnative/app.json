@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "tp3-reactnative",
+    "slug": "tp3-reactnative",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "tp3reactnative",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "export"
+    },
+    "plugins": []
+  }
+}
